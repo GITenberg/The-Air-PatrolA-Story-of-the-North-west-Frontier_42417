@@ -19,6 +19,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/39124
     - http://en.wikipedia.org/wiki/Herbert_Strang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42417#The-Air-PatrolA-Story-of-the-North-west-Frontier
 gutenberg_issued: '2013-03-26'
 gutenberg_type: Text
 identifiers:
