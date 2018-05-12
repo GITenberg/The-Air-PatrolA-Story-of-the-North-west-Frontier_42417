@@ -1,0 +1,37 @@
+_repo: The-Air-PatrolA-Story-of-the-North-west-Frontier_42417
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cuneo, Cyrus
+    birthdate: 1879
+    deathdate: 1916
+    gutenberg_agent_id: '9717'
+    url: http://www.gutenberg.org/2009/agents/9717
+covers:
+- cover_type: archival
+  image_path: 42417-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/39124
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+description: ''
+gutenberg_issued: '2013-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Airplanes -- Juvenile fiction'
+- !lcsh 'Imaginary wars and battles -- Juvenile fiction'
+- !lcsh 'British -- India -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+title: 'The Air Patrol: A Story of the North-west Frontier'
+url: http://www.gutenberg.org/ebooks/42417
